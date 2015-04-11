@@ -1,0 +1,45 @@
+{
+  "name": "KoreaUniv",
+  "designer": "",
+  "company": "",
+  "license": "",
+  "visibility": "External",
+  "category": "Sans Serif",
+  "fonts": [
+    {
+      "name": "KoreaUniv",
+      "postScriptName": "KorUL",
+      "fullName": "KoreaUniv Light",
+      "style": "normal",
+      "weight": 300,
+      "filename": "KoreaUnivL",
+      "copyright": ""
+    },
+    {
+      "name": "KoreaUniv",
+      "postScriptName": "KorUM",
+      "fullName": "KoreaUniv Medium",
+      "style": "normal",
+      "weight": 500,
+      "filename": "KoreaUnivM",
+      "copyright": ""
+    },
+    {
+      "name": "KoreaUniv",
+      "postScriptName": "KorUB",
+      "fullName": "KoreaUniv Bold",
+      "style": "normal",
+      "weight": 700,
+      "filename": "KoreaUnivB",
+      "copyright": ""
+    }
+  ],
+  "subsets": [
+    "latin",
+    "cyrillic",
+    "greek",
+    "hangul",
+    "hanja"
+  ],
+  "dateAdded": "2015-04-11"
+}
