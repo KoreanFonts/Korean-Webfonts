@@ -19,7 +19,7 @@ CDN 경로 정보
 
 CDN의 기본 경로는 //cdn.jsdelivr.net/korean-webfonts/latest/ 이하의 상대 경로는 https://github.com/jsdelivr/jsdelivr/tree/master/files/korean-webfonts/1 에 맞추시면 됩니다. 이 주소는 추후 업데이트가 이뤄지면서 변경될 수 있습니다.
 
-현재 작동하는 예) https://cdn.jsdelivr.net/korean-webfonts/latest/Bareun/Batang/BareunBatangB.woff2
+현재 작동하는 예) https://cdn.jsdelivr.net/korean-webfonts/latest/orgs/othrs/kpa/BareunBatang/BareunBatangOTFB.woff2
 
 
 목표
