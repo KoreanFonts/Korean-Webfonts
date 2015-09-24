@@ -39,3 +39,7 @@ jsdelivr가 전세계 대상의 CDN이므로 잦은 업데이트를 부담스러
 ========
 
 * 오래된 이전 버전의 브라우저에서 웹폰트 힌팅이 으그러지는 경우 https://gist.github.com/letorbi/5177771 아이디어를 추가해보세요~
+
+프로젝트 기부
+=======
+https://gratipay.com/~korusdipl/ 에서 관련사항을 확인하실 수 있습니다 :)
