@@ -42,4 +42,4 @@ jsdelivr가 전세계 대상의 CDN이므로 잦은 업데이트를 부담스러
 
 프로젝트 기부
 =======
-https://gratipay.com/~korusdipl/ 에서 관련사항을 확인하실 수 있습니다 :)
+Please check on the sponsor button above.
